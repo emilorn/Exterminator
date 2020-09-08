@@ -12,3 +12,17 @@
 /Users/arnarleifs/Desktop/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.csproj.CopyComplete
 /Users/arnarleifs/Desktop/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.dll
 /Users/arnarleifs/Desktop/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.pdb
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.deps.json
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.dll
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.pdb
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csprojAssemblyReference.cache
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.AssemblyInfoInputs.cache
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.AssemblyInfo.cs
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CoreCompileInputs.cache
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CopyComplete
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.dll
+C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.pdb
