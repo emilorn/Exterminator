@@ -7,20 +7,24 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
 
-namespace Exterminator.WebApi.ExceptionHandlerExtensions
+
+namespace Exterminator.WebApi.Extensions
 {
-    public static class ExceptionHandlerExtensions
+    public static class ExceptionMiddlewareExtensions
     {
         public static void UseGlobalExceptionHandler(this IApplicationBuilder app)
         {
+            Console.Write("stuff n things/n");
             
             app.UseExceptionHandler(error =>
             {
+                Console.Write("stuff n thingssssssssssss and stuff");
                 error.Run(async context =>
                 {
                     var exceptionHandlerFeature = context.Features.Get<IExceptionHandlerFeature>();
                     var exception = exceptionHandlerFeature.Error;
                     var log = app.ApplicationServices.GetService(typeof(ILogService)) as ILogService;
+                    Console.Write("stuff n things------------------------------------------------------------");
                     
                     var statusCode = exception switch
                     {
