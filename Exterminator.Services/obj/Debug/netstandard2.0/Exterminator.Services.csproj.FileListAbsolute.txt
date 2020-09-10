@@ -26,3 +26,17 @@ C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.S
 C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CopyComplete
 C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.dll
 C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.pdb
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.deps.json
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.dll
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.pdb
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csprojAssemblyReference.cache
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.AssemblyInfoInputs.cache
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.AssemblyInfo.cs
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CoreCompileInputs.cache
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CopyComplete
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.dll
+C:\Users\lokialex\Git_Repositories\Exterminator\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.pdb
