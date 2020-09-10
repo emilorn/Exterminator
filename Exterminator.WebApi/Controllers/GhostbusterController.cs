@@ -1,4 +1,7 @@
-﻿using Exterminator.Models.InputModels;
+﻿using System;
+using Exterminator.Models.Dtos;
+using Exterminator.Models.Exceptions;
+using Exterminator.Models.InputModels;
 using Exterminator.Services.Interfaces;
 using Exterminator.WebApi.Extensions;
 using Microsoft.AspNetCore.Mvc;
@@ -17,11 +20,18 @@ namespace Exterminator.WebApi.Controllers
 
         [HttpGet]
         [Route("")]
-        public IActionResult GetAllGhostbusters(string expertize = "") => Ok(_ghostbusterService.GetAllGhostbusters(expertize));
+        public IActionResult GetAllGhostbusters(string expertize = "") => 
+            Ok(_ghostbusterService.GetAllGhostbusters(expertize));
 
         [HttpGet]
         [Route("{id:int}", Name = "GetGhostbusterById")]
-        public IActionResult GetGhostbusterById(int id) => Ok(_ghostbusterService.GetGhostbusterById(id));
+        public IActionResult GetGhostbusterById(int id)
+        {
+            GhostbusterDto ghost;
+            ghost = _ghostbusterService.GetGhostbusterById(id);
+            
+            return Ok(ghost);
+        } 
 
         [HttpPost]
         [Route("")]

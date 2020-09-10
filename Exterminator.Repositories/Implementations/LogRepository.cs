@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using Exterminator.Models;
@@ -6,6 +7,8 @@ using Exterminator.Models.Dtos;
 using Exterminator.Models.Entities;
 using Exterminator.Repositories.Data;
 using Exterminator.Repositories.Interfaces;
+using Exterminator.Repositories.Migrations;
+using Microsoft.EntityFrameworkCore;
 
 namespace Exterminator.Repositories.Implementations
 {
@@ -23,7 +26,26 @@ namespace Exterminator.Repositories.Implementations
             });
             _dbContext.SaveChanges();
         }
+        
+        public IEnumerable<LogDto> GetAllLogs()
+        {
+            using (var db = _dbContext)
+            {
+                return (from log in db.Logs
+                    orderby log.Timestamp descending 
+                    select new LogDto
+                    {
+                        Id = log.Id,
+                        ExceptionMessage = log.ExceptionMessage,
+                        StackTrace = log.StackTrace,
+                        Timestamp = log.Timestamp
+
+                    }).ToList();
+            }
+           
+        }
+    }
+        
 
         // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
     }
-}

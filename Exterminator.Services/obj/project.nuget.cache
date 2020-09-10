@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tiImxC2NofcZUKwMEvwiZNdHVdfTVd6xZ1XfEDIVo5Jqjsy1LNwWVSNZaCwTaY6OVUyeX+sTlvBrGpQm/SF32w==",
+  "dgSpecHash": "UNUlF5rAsWxIkTeofd6zDbjyQX/PYY4ukKdAd5bNUvggfYa5uUt2PEvDq3FoXObAu9w7yuuZ8ou1bBaQ/4nV5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emil\\OneDrive\\HR\\Coding\\dotnet\\Exterminator\\Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Emil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",

@@ -31,18 +31,22 @@ namespace Exterminator.Repositories.Implementations
 
         public bool DoesExist(int id) => _dbContext.Ghostbusters.Any(g => g.Id == id);
 
-        public IEnumerable<GhostbusterDto> GetAllGhostbusters(string expertize) => _dbContext.Ghostbusters.Where(g => g.Expertize.ToLower().Contains(expertize.ToLower())).Select(g => new GhostbusterDto
+        public IEnumerable<GhostbusterDto> GetAllGhostbusters(string expertize) => 
+            _dbContext.Ghostbusters.Where(g => 
+                g.Expertize.ToLower().Contains(expertize.ToLower())).Select(g => new GhostbusterDto
         {
             Id = g.Id,
             Name = g.Name,
             Expertize = g.Expertize
         });
 
-        public GhostbusterDto GetGhostbusterById(int id) => _dbContext.Ghostbusters.Where(g => g.Id == id).Select(g => new GhostbusterDto 
-        {
-            Id = g.Id,
-            Name = g.Name,
-            Expertize = g.Expertize
-        }).ElementAtOrDefault(0);
+        public GhostbusterDto GetGhostbusterById(int id) =>
+            _dbContext.Ghostbusters.Where(g => g.Id == id).Select(g => 
+                new GhostbusterDto 
+                    {
+                        Id = g.Id,
+                        Name = g.Name,
+                        Expertize = g.Expertize
+                    }).ElementAtOrDefault(0);
     }
 }

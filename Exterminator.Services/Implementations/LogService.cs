@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using Exterminator.Models;
 using Exterminator.Models.Dtos;
@@ -9,6 +10,7 @@ namespace Exterminator.Services.Implementations
     public class LogService : ILogService
     {
         private readonly ILogRepository _logRepository;
+        
 
         public LogService(ILogRepository logRepository)
         {
@@ -19,6 +21,10 @@ namespace Exterminator.Services.Implementations
         {
             _logRepository.LogToDatabase(exception);
         }
-        // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+
+        public IEnumerable<LogDto> GetAllLogs()
+        {
+            return _logRepository.GetAllLogs();
+        }
     }
 }
