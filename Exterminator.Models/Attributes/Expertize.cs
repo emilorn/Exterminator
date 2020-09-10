@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using Exterminator.Models.Exceptions;
 
 namespace Exterminator.Models.Attributes
 {
@@ -12,8 +13,14 @@ namespace Exterminator.Models.Attributes
 
             public override bool IsValid(object value)
             {
-                return value is string valueString
+                var isValid = value is string valueString
                        && Array.Exists(expertiseList, name => name == valueString);
+                if (!isValid)
+                {
+                    throw new ModelFormatException();
+                }
+
+                return isValid;
             }
     }
 }
