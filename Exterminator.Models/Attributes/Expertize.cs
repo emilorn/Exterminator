@@ -15,11 +15,6 @@ namespace Exterminator.Models.Attributes
             {
                 var isValid = value is string valueString
                        && Array.Exists(expertiseList, name => name == valueString);
-                if (!isValid)
-                {
-                    throw new ModelFormatException($"{value} is not a valid expertize");
-                }
-
                 return isValid;
             }
     }

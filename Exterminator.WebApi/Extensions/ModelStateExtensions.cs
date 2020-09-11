@@ -1,4 +1,3 @@
-using System.Linq;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace Exterminator.WebApi.Extensions
