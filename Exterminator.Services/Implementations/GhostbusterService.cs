@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using Exterminator.Models.Dtos;
 using Exterminator.Models.Exceptions;

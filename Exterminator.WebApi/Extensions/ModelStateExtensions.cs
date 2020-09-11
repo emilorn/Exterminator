@@ -14,7 +14,6 @@ namespace Exterminator.WebApi.Extensions
                     errorString += $"Attempted value: {value.AttemptedValue}, Error: {error.ErrorMessage}\n";
                 }
             }
-
             return errorString;
         }
     }

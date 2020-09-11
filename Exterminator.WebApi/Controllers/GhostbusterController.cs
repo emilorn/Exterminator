@@ -1,5 +1,4 @@
-﻿using System;
-using Exterminator.Models.Dtos;
+﻿using Exterminator.Models.Dtos;
 using Exterminator.Models.Exceptions;
 using Exterminator.Models.InputModels;
 using Exterminator.Services.Interfaces;
@@ -39,7 +38,6 @@ namespace Exterminator.WebApi.Controllers
         {
             if (!ModelState.IsValid)
             {
-                // TODO: Implement and uncomment
                 throw new ModelFormatException(ModelState.RetrieveErrorString());
             }
             var newId = _ghostbusterService.CreateGhostbuster(ghostbuster);

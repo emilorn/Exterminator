@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.Linq;
 using Exterminator.Models.Entities;
 
 namespace Exterminator.Repositories.Data
