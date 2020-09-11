@@ -14,17 +14,14 @@ namespace Exterminator.WebApi.Extensions
     {
         public static void UseGlobalExceptionHandler(this IApplicationBuilder app)
         {
-            Console.Write("stuff n things/n");
             
             app.UseExceptionHandler(error =>
             {
-                Console.Write("stuff n thingssssssssssss and stuff");
                 error.Run(async context =>
                 {
                     var exceptionHandlerFeature = context.Features.Get<IExceptionHandlerFeature>();
                     var exception = exceptionHandlerFeature.Error;
                     var log = app.ApplicationServices.GetService(typeof(ILogService)) as ILogService;
-                    Console.Write("stuff n things------------------------------------------------------------");
                     
                     var statusCode = exception switch
                     {

@@ -1,22 +1,26 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
+    "projectUniqueName": "C:\\Users\\Emil\\OneDrive\\HR\\Coding\\dotnet\\Exterminator\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
     "projectName": "Exterminator.Repositories",
-    "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
-    "outputPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Repositories\\obj\\",
+    "projectPath": "C:\\Users\\Emil\\OneDrive\\HR\\Coding\\dotnet\\Exterminator\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
+    "outputPath": "C:\\Users\\Emil\\OneDrive\\HR\\Coding\\dotnet\\Exterminator\\Exterminator\\Exterminator.Repositories\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netstandard2.0"
     ],
     "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {
-          "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
-            "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj"
+          "C:\\Users\\Emil\\OneDrive\\HR\\Coding\\dotnet\\Exterminator\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
+            "projectPath": "C:\\Users\\Emil\\OneDrive\\HR\\Coding\\dotnet\\Exterminator\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj"
           }
         }
       }

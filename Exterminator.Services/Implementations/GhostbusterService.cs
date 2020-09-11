@@ -17,7 +17,8 @@ namespace Exterminator.Services.Implementations
             _ghostbusterRepository = ghostbusterRepository;
         }
 
-        public int CreateGhostbuster(GhostbusterInputModel ghostbuster) => _ghostbusterRepository.CreateGhostbuster(ghostbuster);
+        public int CreateGhostbuster(GhostbusterInputModel ghostbuster) =>
+            _ghostbusterRepository.CreateGhostbuster(ghostbuster);
 
         public IEnumerable<GhostbusterDto> GetAllGhostbusters(string expertize = "") => _ghostbusterRepository.GetAllGhostbusters(expertize);
 
@@ -26,7 +27,7 @@ namespace Exterminator.Services.Implementations
             var ghostBuster = _ghostbusterRepository.GetGhostbusterById(id);
             if (ghostBuster == null)
             {
-                throw new ResourceNotFoundException();
+                throw new ResourceNotFoundException($"Ghostbuster with id {id} was not found.");
             }
             return _ghostbusterRepository.GetGhostbusterById(id);
         }

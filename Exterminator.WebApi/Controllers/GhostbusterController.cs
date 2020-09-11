@@ -40,7 +40,7 @@ namespace Exterminator.WebApi.Controllers
             if (!ModelState.IsValid)
             {
                 // TODO: Implement and uncomment
-                // throw new ModelFormatException(ModelState.RetrieveErrorString());
+                throw new ModelFormatException(ModelState.RetrieveErrorString());
             }
             var newId = _ghostbusterService.CreateGhostbuster(ghostbuster);
             return CreatedAtRoute("GetGhostbusterById", new { id = newId }, null);

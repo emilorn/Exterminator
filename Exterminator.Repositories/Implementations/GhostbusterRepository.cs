@@ -18,6 +18,7 @@ namespace Exterminator.Repositories.Implementations
         }
         public int CreateGhostbuster(GhostbusterInputModel ghostbuster)
         {
+            var ghosts = _dbContext.Ghostbusters;
             var nextId = _dbContext.Ghostbusters.Count() + 1;
             _dbContext.Ghostbusters.Add(new Ghostbuster
             {
@@ -25,6 +26,8 @@ namespace Exterminator.Repositories.Implementations
                 Name = ghostbuster.Name,
                 Expertize = ghostbuster.Expertize
             });
+            
+            
 
             return nextId;
         }
