@@ -24,7 +24,6 @@ namespace Exterminator.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // TODO: Register dependencies
             services.AddControllers();
             services.AddTransient<ILogRepository, LogRepository>();
             services.AddTransient<ILogService, LogService>();
@@ -40,7 +39,6 @@ namespace Exterminator.WebApi
                 app.UseDeveloperExceptionPage();
             }
             app.UseGlobalExceptionHandler();
-            // TODO: Setup global exception handling
             app.UseRouting();
             
             app.UseEndpoints(endpoints =>

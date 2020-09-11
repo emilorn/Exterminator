@@ -14,7 +14,6 @@ namespace Exterminator.WebApi.Extensions
     {
         public static void UseGlobalExceptionHandler(this IApplicationBuilder app)
         {
-            
             app.UseExceptionHandler(error =>
             {
                 error.Run(async context =>
