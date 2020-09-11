@@ -23,7 +23,11 @@ namespace Exterminator.Services.Implementations
 
         public GhostbusterDto GetGhostbusterById(int id)
         {
-            //throw new ResourceNotFoundException("Llolll");
+            var ghostBuster = _ghostbusterRepository.GetGhostbusterById(id);
+            if (ghostBuster == null)
+            {
+                throw new ResourceNotFoundException();
+            }
             return _ghostbusterRepository.GetGhostbusterById(id);
         }
     }

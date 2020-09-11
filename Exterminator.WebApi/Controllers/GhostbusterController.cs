@@ -28,8 +28,8 @@ namespace Exterminator.WebApi.Controllers
         public IActionResult GetGhostbusterById(int id)
         {
             GhostbusterDto ghost;
+            var x = 20 / id;
             ghost = _ghostbusterService.GetGhostbusterById(id);
-            
             return Ok(ghost);
         } 
 

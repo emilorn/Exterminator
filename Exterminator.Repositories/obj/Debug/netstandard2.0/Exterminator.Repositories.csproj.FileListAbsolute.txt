@@ -22,3 +22,15 @@ C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.R
 C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CopyComplete
 C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.dll
 C:\Users\Emil\OneDrive\HR\Coding\dotnet\Exterminator\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.deps.json
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csprojAssemblyReference.cache
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.AssemblyInfoInputs.cache
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.AssemblyInfo.cs
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CopyComplete
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\R1klus\Documents\RU\2020_Fall\Vefþjónustur\Exterminator\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.pdb
