@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
+    "projectUniqueName": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
     "projectName": "Exterminator.Services",
-    "projectPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
-    "outputPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Services\\obj\\",
+    "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
+    "outputPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Services\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.0"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {
-          "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
-            "projectPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj"
+          "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
+            "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj"
           },
-          "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj": {
-            "projectPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj"
+          "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj": {
+            "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj"
           }
         }
       }

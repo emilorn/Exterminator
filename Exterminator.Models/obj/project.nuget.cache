@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OUAUBpcd2vC2Np2FaDFAxKVU4Ny4zANy/SyHc+INhtalkIyowTBl0PfT2cp90lzEcEUXkX4bWoVBPu8ITPYH7Q==",
+  "dgSpecHash": "H11wH+2N79FXE6uWx9A+cHz0v8jxlfsgWVul2Ux8xHjdL+m3fqcfJ+uo56jAQA73qTpN4UPUmL2hir7JfHZsjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
+  "projectFilePath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\R1klus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\R1klus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\R1klus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\R1klus\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+    "C:\\Users\\lokialex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lokialex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lokialex\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\lokialex\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
+    "projectUniqueName": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
     "projectName": "Exterminator.Models",
-    "projectPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
-    "outputPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\obj\\",
+    "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
+    "outputPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.0"

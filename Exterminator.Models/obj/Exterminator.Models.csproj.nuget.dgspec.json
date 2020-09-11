@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {}
+    "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
+    "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
+        "projectUniqueName": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
         "projectName": "Exterminator.Models",
-        "projectPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
-        "packagesPath": "C:\\Users\\R1klus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\R1klus\\Documents\\RU\\2020_Fall\\Vefþjónustur\\Exterminator\\Exterminator.Models\\obj\\",
+        "projectPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
+        "packagesPath": "C:\\Users\\lokialex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lokialex\\Git_Repositories\\Exterminator\\Exterminator.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\R1klus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lokialex\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
